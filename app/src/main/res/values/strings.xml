@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AquaControl</string>
+    <string name="btn_pump">Bomba</string>
+    <string name="Confirmar">Confirmar</string>
+    <string name="Cancelar">Cancelar</string>
+    <string name="inicio">Inicio</string>
+    <string name="conf">Configuração</string>
+    <string name="led">Led</string>
+    <string name="prog">Programação Horário</string>
+    <string name="foto">Somente a noite</string>
+    <string name="auto">Automático</string>
+    <string name="man">Manual</string>
+    <string name="slider">Atraso</string>
+    <string name="host">HOST</string>
+    <string name="server">SERVER NTP</string>
+    <string name="ip">192.168.0.100</string>
+    <string name="ntp">pool.ntp.org</string>
+    <string name="port">PORT NTP</string>
+    <string name="hintPort">123</string>
+    <string name="timezone">TIMEZONE</string>
+    <string name="hintTimezone">-3</string>
+    <string name="save">SAVE</string>
+    <string name="reset">Reset de Fabrica</string>
+    <string name="reiniciar">Reiniciar</string>
+    <string name="Domingo">Domingo</string>
+    <string name="Segunda">Segunda</string>
+    <string name="Terca">Terça</string>
+    <string name="Quarta">Quarta</string>
+    <string name="Quinta">Quinta</string>
+    <string name="Sexta">Sexta</string>
+    <string name="Sabado">Sábado</string>
+    <string name="hr_l">Ligar</string>
+    <string name="hr_d">Desligar</string>
+</resources>

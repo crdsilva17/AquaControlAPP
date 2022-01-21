@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/crist/AndroidStudioProjects/AquaControl/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/AquaControl/app/src/main/res/drawable/customborder.xml" value="0.13177083333333334" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/AquaControl/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/AquaControl/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/AquaControl/app/src/main/res/layout/activity_config.xml" value="0.264" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/AquaControl/app/src/main/res/layout/activity_led.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/AquaControl/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/AquaControl/app/src/main/res/layout/activity_program.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/AquaControl/app/src/main/res/layout/fragment_color_picker.xml" value="0.176" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/AquaControl/app/src/main/res/layout/fragment_picker_color.xml" value="0.264" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/AquaControl/app/src/main/res/layout/fragment_program.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/AquaControl/app/src/main/res/layout/ph.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/AquaControl/app/src/main/res/layout/sample_programador.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/AquaControl/app/src/main/res/layout/sample_programador_horario.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/AquaControl/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/AquaControl/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14635416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
