@@ -3,14 +3,14 @@
     <string name="btn_pump">Bomba</string>
     <string name="Confirmar">Confirmar</string>
     <string name="Cancelar">Cancelar</string>
-    <string name="inicio">Inicio</string>
+    <string name="inicio">Tela Principal</string>
     <string name="conf">Configuração</string>
-    <string name="led">Led</string>
+    <string name="led">Configuração do Led</string>
     <string name="prog">Programação Horário</string>
     <string name="foto">Somente a noite</string>
     <string name="auto">Automático</string>
     <string name="man">Manual</string>
-    <string name="slider">Atraso</string>
+    <string name="slider">Tempo de transição</string>
     <string name="host">HOST</string>
     <string name="server">SERVER NTP</string>
     <string name="ip">192.168.0.100</string>

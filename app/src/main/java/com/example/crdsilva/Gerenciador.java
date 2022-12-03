@@ -1,22 +1,18 @@
 package com.example.crdsilva;
 
 import android.content.Context;
-import android.os.Environment;
 import android.util.Log;
 
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.FileReader;
-import java.io.FileWriter;
 import java.io.IOException;
-import java.io.InputStreamReader;
 
 public class Gerenciador {
     private String conteudo;
-    private String fileName = "dados.cr";
+    private final String fileName = "dados.cr";
     private File arquivo;
 
     public Gerenciador(){
@@ -40,8 +36,8 @@ public class Gerenciador {
 
     }
 
-    public String Read(Context context, String c){
-        String[] line = new String[2];
+    public String read(Context context, String c){
+        String[] line;
         arquivo = new File(context.getFilesDir(), fileName);
         try {
             BufferedReader br = new BufferedReader(new FileReader(arquivo.getPath()));
